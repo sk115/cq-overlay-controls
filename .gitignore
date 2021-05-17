@@ -1,5 +1,8 @@
-# Build files
-/dashboard
+# NodeCG Artifacts
+.nodecg/
+dashboard/
+graphics/
+extension/
 
 # Logs
 logs
